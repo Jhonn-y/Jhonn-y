@@ -1,5 +1,5 @@
 # My Profile #
- I'm a college student looking for practice my theoretical knowledge. I hope that you ejoy my achievements!!!
+ I'm a college student looking for practice my theoretical knowledge. I hope that you enjoy my achievements!!!
 
 ## Tech Skills ##
 
