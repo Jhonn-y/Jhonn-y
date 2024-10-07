@@ -30,6 +30,10 @@ Make a Big project that all will remember it, work in a Big Tech and be a refere
 - English - *Advanced;*
 - Janpanese - *Basic.*
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhonn-y&show_icons=true&theme=transparent)
+
+
 ## About Me ##
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jhomartins000098@gmail.com)
