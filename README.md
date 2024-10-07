@@ -30,9 +30,6 @@ Make a Big project that all will remember it, work in a Big Tech and be a refere
 - English - *Advanced;*
 - Janpanese - *Basic.*
 
-## GitHub Metrics ##
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonn-y&theme=transparent&bg_color=000&border_color=46295A&show_icons=true&icon_color=8b0000&title_color=46295A&text_color=006400)
-
 ## About Me ##
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jhomartins000098@gmail.com)
